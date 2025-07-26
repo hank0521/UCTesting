@@ -1,0 +1,14 @@
+C:\Git\Test\UCTesting\bin\Debug\net8.0\UCTesting.exe
+C:\Git\Test\UCTesting\bin\Debug\net8.0\UCTesting.deps.json
+C:\Git\Test\UCTesting\bin\Debug\net8.0\UCTesting.runtimeconfig.json
+C:\Git\Test\UCTesting\bin\Debug\net8.0\UCTesting.dll
+C:\Git\Test\UCTesting\bin\Debug\net8.0\UCTesting.pdb
+C:\Git\Test\UCTesting\obj\Debug\net8.0\UCTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Test\UCTesting\obj\Debug\net8.0\UCTesting.AssemblyInfoInputs.cache
+C:\Git\Test\UCTesting\obj\Debug\net8.0\UCTesting.AssemblyInfo.cs
+C:\Git\Test\UCTesting\obj\Debug\net8.0\UCTesting.csproj.CoreCompileInputs.cache
+C:\Git\Test\UCTesting\obj\Debug\net8.0\UCTesting.dll
+C:\Git\Test\UCTesting\obj\Debug\net8.0\refint\UCTesting.dll
+C:\Git\Test\UCTesting\obj\Debug\net8.0\UCTesting.pdb
+C:\Git\Test\UCTesting\obj\Debug\net8.0\UCTesting.genruntimeconfig.cache
+C:\Git\Test\UCTesting\obj\Debug\net8.0\ref\UCTesting.dll
